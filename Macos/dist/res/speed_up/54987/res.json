@@ -1,0 +1,32 @@
+{
+  "category": "speed_up",
+  "id": "54987",
+  "submitted": true,
+  "special_scene": false,
+  "lanes": [
+    {
+      "is_car": false,
+      "current_lane": null,
+      "distance": null,
+      "movement": null
+    },
+    {
+      "is_car": false,
+      "current_lane": null,
+      "distance": null,
+      "movement": null
+    },
+    {
+      "is_car": false,
+      "current_lane": null,
+      "distance": null,
+      "movement": null
+    },
+    {
+      "is_car": false,
+      "current_lane": null,
+      "distance": null,
+      "movement": null
+    }
+  ]
+}
