@@ -9,7 +9,4 @@ chmod +rwx UI_survey
 ```
 
 For Windows:
-run
-```
-
-```
+click the UI_survey.exe file
