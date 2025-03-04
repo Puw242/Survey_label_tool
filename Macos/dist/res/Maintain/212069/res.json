@@ -1,0 +1,20 @@
+{
+  "category": "Maintain",
+  "id": "212069",
+  "submitted": true,
+  "special_scene": false,
+  "lanes": [
+    {
+      "is_car": false,
+      "current_lane": null,
+      "distance": null,
+      "movement": null
+    },
+    {
+      "is_car": true,
+      "current_lane": false,
+      "distance": "Moderate",
+      "movement": "changing lane to other"
+    }
+  ]
+}
