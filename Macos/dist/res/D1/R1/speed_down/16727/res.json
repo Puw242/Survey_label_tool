@@ -1,0 +1,20 @@
+{
+  "D": "D1",
+  "R": "R1",
+  "category": "speed_down",
+  "id": "16727",
+  "submitted": true,
+  "special_scene": false,
+  "wrong_case": false,
+  "lanes": [
+    {
+      "is_car": true,
+      "current_lane": false,
+      "distance": "Moderate",
+      "movement_distance": "Decreasing Distance",
+      "movement_lane": "none",
+      "vehicle_state": "stopped",
+      "split_or_merge": "none"
+    }
+  ]
+}
